@@ -1,0 +1,36 @@
+h1{
+    color:#000000;
+}
+/*
+*{
+    border:solid;
+} */
+.titulos{
+    background-color: #FF6666;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.juegos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: #FF6600;
+    display: flex;
+    justify-content:flex-end;
+}
+
+p,h2 {
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: rgb(128, 128, 128);
+}
